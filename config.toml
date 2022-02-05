@@ -1,4 +1,11 @@
-baseURL = 'http://mansfield.ink/'
-languageCode = 'en-us'
-title = 'Mansfield Ink'
-theme = 'noteworthy'
+baseURL = "http://mansfield.ink/"
+languageCode = "en-us"
+title = "Mansfield Ink"
+theme = "noteworthy"
+
+[params]
+email = "sgmansf@gmail.com"
+twitter = "https://twitter.com/sgmansfield"
+instagram = "https://www.instagram.com/scott.mansfield/"
+linkedin = "https://www.linkedin.com/in/scottgmansfield/"
+github = "https://github.com/ScottMansfield/"
