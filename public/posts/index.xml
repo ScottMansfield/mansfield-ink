@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mansfield Ink</title>
+    <link>http://mansfield.ink/posts/</link>
+    <description>Recent content in Posts on Mansfield Ink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Feb 2022 20:32:52 -0800</lastBuildDate><atom:link href="http://mansfield.ink/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 Intro</title>
+      <link>http://mansfield.ink/posts/2022-intro/</link>
+      <pubDate>Fri, 04 Feb 2022 20:32:52 -0800</pubDate>
+      
+      <guid>http://mansfield.ink/posts/2022-intro/</guid>
+      <description>Hello, World! this is some content&amp;hellip;
+Second level header foo bar baz
+Third level header lol yeah</description>
+    </item>
+    
+  </channel>
+</rss>
