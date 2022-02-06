@@ -5,6 +5,8 @@ theme = "noteworthy"
 
 googleAnalytics = "UA-219615654-1"
 
+relativeURLs = true
+
 [params]
     email = "sgmansf@gmail.com"
     twitter = "https://twitter.com/sgmansfield"
