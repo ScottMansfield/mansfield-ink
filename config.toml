@@ -1,6 +1,6 @@
-baseURL = "http://mansfield.ink/"
+baseURL = "https://mansfield.ink/"
 languageCode = "en-us"
-title = "Mansfield Ink"
+title = "Mansfield.ink"
 theme = "noteworthy"
 
 [params]
