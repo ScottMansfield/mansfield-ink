@@ -1,6 +1,6 @@
 ---
 title: "Book 2: Virtual Freedom"
-date: 2022-02-07T05:48:01-08:00
+date: 2022-02-08T06:00:00-08:00
 draft: false
 ---
 
