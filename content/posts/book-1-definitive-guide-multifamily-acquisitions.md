@@ -2,6 +2,8 @@
 title: "Book 1: The Definitive Guide to Underwriting Multifamily Acquisitions"
 date: 2022-02-06T06:00:00-08:00
 draft: false
+
+categories: ["100 Books 2022", "Real Estate"]
 ---
 
 To start the year with a *really* exciting piece of literature, I read

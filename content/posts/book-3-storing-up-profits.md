@@ -2,6 +2,8 @@
 title: "Book 3: Storing Up Profits"
 date: 2022-02-10T06:00:00-08:00
 draft: false
+
+categories: ["100 Books 2022", "Real Estate"]
 ---
 
 Like anything BiggerPockets publishes, this book was great.
