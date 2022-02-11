@@ -3,7 +3,7 @@ title: "2022 Intro"
 date: 2022-02-05T06:00:00-08:00
 draft: false
 
-categories: ["100 Books"]
+categories: ["100 Books 2022"]
 ---
 
 It's 2022. The year the world will hopefully go back to normal. With a new year
