@@ -2,6 +2,8 @@
 title: "Book 2: Virtual Freedom"
 date: 2022-02-08T06:00:00-08:00
 draft: false
+
+categories: ["100 Books 2022", "Virtual Assistants", "Entrepreneurship"]
 ---
 
 Time is money. Money is time. How can you create more than 24 hours in a day?
