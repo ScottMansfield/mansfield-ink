@@ -48,7 +48,9 @@ I tried this exercise and it was quite enlightening. I know, for example, that
 I am not good at graphic design. Recently, in a side project with a couple friends,
 we decided to instead pay someone else to make a logo for us. This person, in
 Morocco, did a far better job than we ever could have. I'll discuss this more in
-an upcoming review of
+an upcoming
+[review]({{< ref "/posts/book-4-who-not-how.md" >}})
+of
 *[Who Not How](https://smile.amazon.com/dp/1401960588/)*.
 
 The last list is the most interesting. To get a good list I used the time tracker
