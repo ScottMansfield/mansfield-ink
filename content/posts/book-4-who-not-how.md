@@ -6,14 +6,14 @@ draft: false
 categories: ["100 Books 2022", "Productivity", "Entrepreneurship"]
 ---
 
-[Who Not How](https://smile.amazon.com/dp/1401960588/)
+*[Who Not How](https://smile.amazon.com/dp/1401960588/)*
 by Dan Sullivan and Dr. Benjamin Hardy flips the typical script upside down.
 Instead of concentrating on how to solve a problem yourself, you should instead
 look for people who can solve that problem for you. By delegating rather than
 doing, you can free your time to do higher level, higher value tasks.
 
 This book revisits the same concept of $10,000 per hour work that we saw in
-[Virtual Freedom](https://smile.amazon.com/dp/1939529743/).
+*[Virtual Freedom](https://smile.amazon.com/dp/1939529743/)*.
 There's a lot more color, though, since the concept is more general. It's not
 about how to outsource work but why to delegate work.
 

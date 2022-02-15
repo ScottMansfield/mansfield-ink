@@ -9,7 +9,7 @@ categories: ["100 Books 2022", "Virtual Assistants", "Entrepreneurship"]
 Time is money. Money is time. How can you create more than 24 hours in a day?
 Well, money. If you can pay someone to do things for you, then you get that time
 back.
-[Virtual Freedom](https://smile.amazon.com/dp/1939529743/)
+*[Virtual Freedom](https://smile.amazon.com/dp/1939529743/)*
 by
 [Chris Ducker](https://www.chrisducker.com)
 is all about how to make that happen.
@@ -17,7 +17,7 @@ is all about how to make that happen.
 # But I'm a Superhero
 
 No, you're not. That's the problem. After reading
-[The E-Myth Revisited](https://smile.amazon.com/dp/0887307280/)
+*[The E-Myth Revisited](https://smile.amazon.com/dp/0887307280/)*
 last year I've been fascinated by the idea of creating roles and systems early
 in a venture, even with the same person filling every role. Defining these roles
 makes delegating them easier when you need to scale. Once you're out of time in
@@ -49,7 +49,7 @@ I am not good at graphic design. Recently, in a side project with a couple frien
 we decided to instead pay someone else to make a logo for us. This person, in
 Morocco, did a far better job than we ever could have. I'll discuss this more in
 an upcoming review of
-[Who Not How](https://smile.amazon.com/dp/1401960588/).
+*[Who Not How](https://smile.amazon.com/dp/1401960588/)*.
 
 The last list is the most interesting. To get a good list I used the time tracker
 mentioned in the
