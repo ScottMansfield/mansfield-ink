@@ -2,10 +2,12 @@
 title: "Book 5: The Handmaid's Tale"
 date: 2022-02-15T06:00:00-08:00
 draft: false
+
+categories: ["100 Books 2022", "Dystopian", "Fiction"]
 ---
 
 This post will contain spoilers about the content of the book. If you haven't read
-[The Handmaid's Tale](https://smile.amazon.com/dp/038549081X/)
+*[The Handmaid's Tale](https://smile.amazon.com/dp/038549081X/)*
 yet, I recommend you do.
 
 To mix things up, I decided to read something that's been on my to-read list

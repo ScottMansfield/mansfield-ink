@@ -7,7 +7,7 @@ categories: ["100 Books 2022", "Real Estate"]
 ---
 
 Like anything BiggerPockets publishes, this book was great.
-[Storing Up Profits](https://store.biggerpockets.com/products/storing-up-profits)
+*[Storing Up Profits](https://store.biggerpockets.com/products/storing-up-profits)*
 was written by Paul Moore, an expert in the self-storage real estate market. I
 like these kinds of books because they tend to pack a lot into a small space.
 

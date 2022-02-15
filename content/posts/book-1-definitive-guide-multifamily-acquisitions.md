@@ -7,7 +7,7 @@ categories: ["100 Books 2022", "Real Estate"]
 ---
 
 To start the year with a *really* exciting piece of literature, I read
-[The Definitive Guide to Underwriting Multifamily Acquisitions](https://smile.amazon.com/dp/B088B6DPGY/).
+*[The Definitive Guide to Underwriting Multifamily Acquisitions](https://smile.amazon.com/dp/B088B6DPGY/).*
 My wife and I have recently begun investing in real estate. With an eye on the
 future I wanted to get an idea of how larger buildings are analyzed. Instead of
 repeating the details of the book (which is quite detailed) I will go over some
