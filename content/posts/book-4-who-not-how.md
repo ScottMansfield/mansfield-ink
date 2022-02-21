@@ -110,7 +110,7 @@ limited time here on Earth is one of the best decisions I've made.
 * [Virtual Freedom](https://smile.amazon.com/dp/1939529743/)
   by Chris Ducker
 * [The Miracle Morning](https://smile.amazon.com/dp/0979019710/)
-  by Hal Elrod (post coming soon)
+  by Hal Elrod ([post]({{< ref "/posts/book-6-miracle-morning" >}}))
 * [Atomic Habits](https://smile.amazon.com/dp/0735211299/)
   by James Clear (post coming soon)
 * [The Go Giver](https://smile.amazon.com/dp/1591848288/)
