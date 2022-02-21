@@ -2,6 +2,8 @@
 title: "Book 6: The Miracle Morning"
 date: 2022-02-20T06:00:00-08:00
 draft: false
+
+categories: ["100 Books 2022", "Productivity"]
 ---
 
 *[The Miracle Morning](https://smile.amazon.com/dp/0979019710/)*
@@ -112,7 +114,7 @@ exercise in the afternoons now. I do the
 and it can be highly variable in length. My current schedule is:
 
 * 30 - 45 min Torah study: This includes the daily reading, commentary, the daily
-  mitzvah, and Hebrew reading practice by reading psalms
+  mitzvah, and Hebrew reading practice by reading psalms.
 * 5 - 15 min journaling: This is time to just start writing. Whatever comes out
   is what needed to come out.
 * 15 - 60 min reading: So much to read, so little time.
@@ -134,5 +136,5 @@ S.A.V.E.R.S. items listed. This can help guide you when you get started.
 * [Discipline Equals Freedom](https://smile.amazon.com/dp/1250274435/)
   by Jocko Willink
 * [Eat That Frog!](https://smile.amazon.com/dp/162656941X/)
-  by Brian Tracy (post coming soon)
+  by Brian Tracy ([post]({{< ref "/posts/book-7-eat-that-frog" >}}))
 
